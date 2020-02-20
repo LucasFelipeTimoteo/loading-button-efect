@@ -9,9 +9,10 @@ body {
 .btn {
     width: 150px;
     padding: 15px 30px;
+    background-color: rgb(187, 187, 187);
     text-transform: uppercase;
     font-size: 20px;
-    border-radius: 5px;
+    border-radius: 15px;
     outline: none;
 
     background-image: linear-gradient(to right, black 50%, transparent 50%);
