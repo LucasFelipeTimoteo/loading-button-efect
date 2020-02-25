@@ -1,7 +1,4 @@
-## images
+## Demo
 
-![image 1](/screenshots/image1.png)
+![demo](/demo/button-animation.gif)
 
-![image 2](/screenshots/image2.png)
-
-![image 3](/screenshots/image3.png)
